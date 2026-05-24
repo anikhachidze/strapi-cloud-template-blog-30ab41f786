@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_mbr_home_messages",
+  "info": {
+    "displayName": "Home Message",
+    "icon": "information",
+    "description": "Localized title and body for inline homepage notices"
+  },
+  "options": {},
+  "attributes": {
+    "titleEn": {
+      "type": "string"
+    },
+    "titleKa": {
+      "type": "string"
+    },
+    "bodyEn": {
+      "type": "text",
+      "required": true
+    },
+    "bodyKa": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

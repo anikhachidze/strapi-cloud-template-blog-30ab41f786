@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_mbr_home_sections",
+  "info": {
+    "displayName": "Home Section",
+    "icon": "layout",
+    "description": "Localized eyebrow, title, and supporting text for a homepage section"
+  },
+  "options": {},
+  "attributes": {
+    "eyebrowEn": {
+      "type": "string"
+    },
+    "eyebrowKa": {
+      "type": "string"
+    },
+    "titleEn": {
+      "type": "string",
+      "required": true
+    },
+    "titleKa": {
+      "type": "string",
+      "required": true
+    },
+    "bodyEn": {
+      "type": "text"
+    },
+    "bodyKa": {
+      "type": "text"
+    }
+  }
+}

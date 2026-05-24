@@ -595,6 +595,58 @@ export interface ApiGlobalGlobal extends Struct.SingleTypeSchema {
   };
 }
 
+export interface ApiMbrHomepageMbrHomepage extends Struct.SingleTypeSchema {
+  collectionName: 'mbr_homepages';
+  info: {
+    description: 'Editor-friendly homepage content with structured fields, media, videos, and selected relations';
+    displayName: 'MindBody Homepage';
+    pluralName: 'mbr-homepages';
+    singularName: 'mbr-homepage';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    disclaimer: Schema.Attribute.Component<'mbr.home-message', false>;
+    featuredArticles: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::mbr-post.mbr-post'
+    >;
+    featuredArticlesSection: Schema.Attribute.Component<
+      'mbr.home-section',
+      false
+    >;
+    featuredProducts: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::mbr-product.mbr-product'
+    >;
+    hero: Schema.Attribute.Component<'mbr.home-hero', false> &
+      Schema.Attribute.Required;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::mbr-homepage.mbr-homepage'
+    > &
+      Schema.Attribute.Private;
+    promoVideo: Schema.Attribute.Component<'mbr.home-video', false>;
+    publishedAt: Schema.Attribute.DateTime;
+    recommendationsSection: Schema.Attribute.Component<
+      'mbr.home-section',
+      false
+    >;
+    spotlightQuote: Schema.Attribute.Relation<
+      'oneToOne',
+      'api::mbr-quote.mbr-quote'
+    >;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiMbrPostMbrPost extends Struct.CollectionTypeSchema {
   collectionName: 'mbr_posts';
   info: {
@@ -608,6 +660,7 @@ export interface ApiMbrPostMbrPost extends Struct.CollectionTypeSchema {
   };
   attributes: {
     category: Schema.Attribute.JSON;
+    coverImage: Schema.Attribute.Media<'images'>;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -649,6 +702,7 @@ export interface ApiMbrProductMbrProduct extends Struct.CollectionTypeSchema {
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
     description: Schema.Attribute.JSON;
+    image: Schema.Attribute.Media<'images'>;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<
       'oneToMany',
@@ -1240,6 +1294,7 @@ declare module '@strapi/strapi' {
       'api::author.author': ApiAuthorAuthor;
       'api::category.category': ApiCategoryCategory;
       'api::global.global': ApiGlobalGlobal;
+      'api::mbr-homepage.mbr-homepage': ApiMbrHomepageMbrHomepage;
       'api::mbr-post.mbr-post': ApiMbrPostMbrPost;
       'api::mbr-product.mbr-product': ApiMbrProductMbrProduct;
       'api::mbr-quote.mbr-quote': ApiMbrQuoteMbrQuote;

@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_mbr_home_videos",
+  "info": {
+    "displayName": "Home Video",
+    "icon": "play",
+    "description": "Optional homepage video block with localized copy and poster image"
+  },
+  "options": {},
+  "attributes": {
+    "titleEn": {
+      "type": "string"
+    },
+    "titleKa": {
+      "type": "string"
+    },
+    "bodyEn": {
+      "type": "text"
+    },
+    "bodyKa": {
+      "type": "text"
+    },
+    "videoUrl": {
+      "type": "string"
+    },
+    "poster": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"]
+    }
+  }
+}
