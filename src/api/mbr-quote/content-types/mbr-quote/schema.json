@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mbr_quotes",
+  "info": {
+    "singularName": "mbr-quote",
+    "pluralName": "mbr-quotes",
+    "displayName": "MindBody Quote",
+    "description": "Localized motivational quotes"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "text": {
+      "type": "json",
+      "required": true
+    },
+    "author": {
+      "type": "json"
+    },
+    "order": {
+      "type": "integer",
+      "default": 0
+    }
+  }
+}

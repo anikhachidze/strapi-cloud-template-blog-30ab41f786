@@ -1,0 +1,46 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mbr_posts",
+  "info": {
+    "singularName": "mbr-post",
+    "pluralName": "mbr-posts",
+    "displayName": "MindBody Post",
+    "description": "Localized MindBody Roots blog posts"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "slug": {
+      "type": "uid",
+      "required": true
+    },
+    "title": {
+      "type": "json",
+      "required": true
+    },
+    "category": {
+      "type": "json"
+    },
+    "date": {
+      "type": "string"
+    },
+    "readingTime": {
+      "type": "json"
+    },
+    "excerpt": {
+      "type": "json"
+    },
+    "productTitles": {
+      "type": "json"
+    },
+    "sections": {
+      "type": "json"
+    },
+    "order": {
+      "type": "integer",
+      "default": 0
+    }
+  }
+}

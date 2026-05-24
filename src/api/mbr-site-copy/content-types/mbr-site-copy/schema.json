@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "mbr_site_copies",
+  "info": {
+    "singularName": "mbr-site-copy",
+    "pluralName": "mbr-site-copies",
+    "displayName": "MindBody Site Copy",
+    "description": "Localized UI copy for MindBody Roots"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "copy": {
+      "type": "json",
+      "required": true
+    }
+  }
+}
