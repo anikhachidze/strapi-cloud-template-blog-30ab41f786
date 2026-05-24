@@ -1,0 +1,57 @@
+{
+  "kind": "singleType",
+  "collectionName": "mbr_homepages",
+  "info": {
+    "singularName": "mbr-homepage",
+    "pluralName": "mbr-homepages",
+    "displayName": "MindBody Homepage",
+    "description": "Editor-friendly homepage content with structured fields, media, videos, and selected relations"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero": {
+      "type": "component",
+      "repeatable": false,
+      "component": "mbr.home-hero",
+      "required": true
+    },
+    "featuredArticlesSection": {
+      "type": "component",
+      "repeatable": false,
+      "component": "mbr.home-section"
+    },
+    "featuredArticles": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::mbr-post.mbr-post"
+    },
+    "spotlightQuote": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::mbr-quote.mbr-quote"
+    },
+    "disclaimer": {
+      "type": "component",
+      "repeatable": false,
+      "component": "mbr.home-message"
+    },
+    "recommendationsSection": {
+      "type": "component",
+      "repeatable": false,
+      "component": "mbr.home-section"
+    },
+    "featuredProducts": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::mbr-product.mbr-product"
+    },
+    "promoVideo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "mbr.home-video"
+    }
+  }
+}

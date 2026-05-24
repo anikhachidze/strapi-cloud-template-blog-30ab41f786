@@ -32,6 +32,12 @@
     "excerpt": {
       "type": "json"
     },
+    "coverImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"]
+    },
     "productTitles": {
       "type": "json"
     },

@@ -1,0 +1,76 @@
+{
+  "collectionName": "components_mbr_home_heroes",
+  "info": {
+    "displayName": "Home Hero",
+    "icon": "landscape",
+    "description": "Editable homepage hero with localized copy, CTAs, and optional media"
+  },
+  "options": {},
+  "attributes": {
+    "badgeEn": {
+      "type": "string"
+    },
+    "badgeKa": {
+      "type": "string"
+    },
+    "titleEn": {
+      "type": "string",
+      "required": true
+    },
+    "titleKa": {
+      "type": "string",
+      "required": true
+    },
+    "leadEn": {
+      "type": "text"
+    },
+    "leadKa": {
+      "type": "text"
+    },
+    "primaryLabelEn": {
+      "type": "string"
+    },
+    "primaryLabelKa": {
+      "type": "string"
+    },
+    "primaryUrl": {
+      "type": "string"
+    },
+    "secondaryLabelEn": {
+      "type": "string"
+    },
+    "secondaryLabelKa": {
+      "type": "string"
+    },
+    "secondaryUrl": {
+      "type": "string"
+    },
+    "quoteEn": {
+      "type": "text"
+    },
+    "quoteKa": {
+      "type": "text"
+    },
+    "cardBodyEn": {
+      "type": "text"
+    },
+    "cardBodyKa": {
+      "type": "text"
+    },
+    "media": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images", "videos"]
+    },
+    "videoUrl": {
+      "type": "string"
+    },
+    "mediaCaptionEn": {
+      "type": "text"
+    },
+    "mediaCaptionKa": {
+      "type": "text"
+    }
+  }
+}
