@@ -1,0 +1,471 @@
+{
+  "siteCopy": {
+    "en": {
+      "brand": "MindBody Roots",
+      "nav": {
+        "blog": "Blog",
+        "quotes": "Quotes",
+        "recommendations": "Recommendations",
+        "about": "About"
+      },
+      "controls": {
+        "theme": "Theme",
+        "language": "Language",
+        "light": "Light",
+        "dark": "Dark",
+        "english": "English",
+        "georgian": "Georgian"
+      },
+      "hero": {
+        "badge": "Mind • Body • Better habits",
+        "title": "Be Friend of your mind.",
+        "lead": "Explore practical articles about the unconscious mind, daily discipline, physical wellbeing, and the small routines that make a healthier life easier to repeat.",
+        "primary": "Read the Blog",
+        "secondary": "Explore Recommendations",
+        "quote": "Health begins with the choices you repeat.",
+        "cardBody": "MindBody Roots is built for calm learning: short articles, grounded motivation, and tools that support healthier routines without hype."
+      },
+      "sections": {
+        "featuredEyebrow": "Featured articles",
+        "featuredTitle": "Start with practical mind-body education.",
+        "featuredText": "Read beginner-friendly articles about unconscious patterns, physical wellbeing, and routines that are easier to repeat.",
+        "toolsEyebrow": "Helpful tools",
+        "toolsTitle": "Simple recommendations for better routines.",
+        "toolsText": "These Amazon links are placeholders for development. Replace them with your real affiliate links before launch."
+      },
+      "footer": {
+        "description": "Educational health and mindset content. Not medical advice.",
+        "disclaimer": "Health Disclaimer",
+        "affiliate": "Affiliate Disclosure"
+      },
+      "common": {
+        "notFoundTitle": "Article not found",
+        "notFoundText": "Try returning to the blog page.",
+        "helpfulToolsTitle": "Helpful tools for this topic",
+        "helpfulToolsText": "These are simple product ideas that may support routines around this article. Replace placeholder links with your real Amazon affiliate links before publishing.",
+        "readArticle": "Read article →",
+        "viewAmazon": "View on Amazon",
+        "affiliatePlaceholder": "Affiliate placeholder link. Replace with your real Amazon Associates URL before launch.",
+        "healthDisclaimerTitle": "Health disclaimer:",
+        "healthDisclaimerBody": "This website is for educational purposes only and is not medical advice. Always consult a qualified health professional before making health, diet, exercise, or supplement decisions.",
+        "aboutEyebrow": "About",
+        "aboutTitle": "A calm space for mind-body habits.",
+        "aboutLead": "MindBody Roots explores how thoughts, routines, environment, and physical wellbeing influence each other.",
+        "aboutBody1": "The mission is simple: make health and mindset ideas easier to understand and easier to practice. The site focuses on practical education, grounded motivation, and small repeatable habits.",
+        "aboutBody2": "This is not a replacement for professional healthcare. It is a starting point for reflection, learning, and building routines that support your life.",
+        "blogEyebrow": "Blog",
+        "blogTitle": "Health & mind articles.",
+        "blogLead": "Short, practical writing about mindset, routines, physical wellbeing, and the hidden patterns behind daily behavior.",
+        "quotesEyebrow": "Motivation",
+        "quotesTitle": "Quotes for mind and body.",
+        "quotesLead": "Use these as small reminders. Real progress still comes from repeated action, rest, and honest self-awareness.",
+        "quotesTip": "Tip: choose one quote for the week and connect it to one visible habit, like a morning walk, water bottle, journal, or earlier bedtime.",
+        "recommendationsEyebrow": "Amazon recommendations",
+        "recommendationsTitle": "Tools for a healthier routine.",
+        "recommendationsLead": "Product ideas for journaling, learning, movement, recovery, and daily consistency.",
+        "affiliateDisclosureLabel": "Affiliate disclosure:",
+        "affiliateDisclosureTitle": "How product links work.",
+        "affiliateDisclosureBody": "As an Amazon Associate, this site may earn from qualifying purchases. This does not affect the price you pay. Current links are placeholders and should be replaced with real affiliate URLs before launch.",
+        "affiliateDisclosureStrong": "As an Amazon Associate, I earn from qualifying purchases.",
+        "affiliateDisclosureExtra1": "Some links on MindBody Roots may be affiliate links. If you click a link and make a purchase, this site may earn a small commission. This does not affect the price you pay.",
+        "affiliateDisclosureExtra2": "Recommendations should be based on relevance to the article topic, usefulness, and fit for healthy routines. Before launch, replace placeholder Amazon search links with your real Amazon Associates affiliate URLs.",
+        "disclaimerEyebrow": "Disclaimer",
+        "disclaimerTitle": "Educational content, not medical advice.",
+        "disclaimerBody": "The information on MindBody Roots is provided for general educational and motivational purposes only. It is not medical advice, diagnosis, treatment, or a substitute for guidance from a qualified health professional.",
+        "disclaimerItems": [
+          "Always consult a doctor or qualified professional before changing exercise, diet, sleep, supplement, or treatment routines.",
+          "Do not ignore professional medical advice because of something you read on this website.",
+          "No article or recommendation on this website is intended to diagnose, treat, cure, or prevent any disease.",
+          "You are responsible for your own decisions and should consider your personal health situation carefully."
+        ],
+        "articleToolsTitle": "Helpful tools for this topic",
+        "articleToolsText": "These are simple product ideas that may support routines around this article. Replace placeholder links with your real Amazon affiliate links before publishing."
+      }
+    },
+    "ka": {
+      "brand": "MindBody Roots",
+      "nav": {
+        "blog": "ბლოგი",
+        "quotes": "ციტატები",
+        "recommendations": "რეკომენდაციები",
+        "about": "ჩვენს შესახებ"
+      },
+      "controls": {
+        "theme": "თემა",
+        "language": "ენა",
+        "light": "ღია",
+        "dark": "მუქი",
+        "english": "ინგლისური",
+        "georgian": "ქართული"
+      },
+      "hero": {
+        "badge": "გონება • სხეული • უკეთესი ჩვევები",
+        "title": "იყავი შენი გონების მეგობარი.",
+        "lead": "გაეცანი პრაქტიკულ სტატიებს არაცნობიერ გონებაზე, ყოველდღიურ დისციპლინაზე, ფიზიკურ კეთილდღეობასა და პატარა რუტინებზე, რომლებიც ჯანმრთელი ცხოვრების გამეორებას ამარტივებს.",
+        "primary": "წაიკითხე ბლოგი",
+        "secondary": "ნახე რეკომენდაციები",
+        "quote": "ჯანმრთელობა იწყება იმ არჩევანით, რომელსაც იმეორებ.",
+        "cardBody": "MindBody Roots შექმნილია მშვიდი სწავლისთვის: მოკლე სტატიები, მიწიერი მოტივაცია და ხელსაწყოები, რომლებიც ზედმეტი აჟიოტაჟის გარეშე გეხმარება უკეთესი რუტინის შექმნაში."
+      },
+      "sections": {
+        "featuredEyebrow": "რჩეული სტატიები",
+        "featuredTitle": "დაიწყე პრაქტიკული გონება-სხეულის განათლებით.",
+        "featuredText": "წაიკითხე დამწყებთათვის მარტივი სტატიები არაცნობიერ ჩვევებზე, ფიზიკურ კეთილდღეობასა და იმ რუტინებზე, რომელთა გამეორებაც მარტივია.",
+        "toolsEyebrow": "სასარგებლო ხელსაწყოები",
+        "toolsTitle": "მარტივი რეკომენდაციები უკეთესი რუტინებისთვის.",
+        "toolsText": "ეს Amazon ბმულები მხოლოდ დეველოპმენტისთვისაა. გამოქვეყნებამდე ჩაანაცვლე ისინი შენს რეალურ affiliate ბმულებით."
+      },
+      "footer": {
+        "description": "საგანმანათლებლო ჯანმრთელობისა და აზროვნების კონტენტი. არაა სამედიცინო რჩევა.",
+        "disclaimer": "ჯანმრთელობის დისკლეიმერი",
+        "affiliate": "Affiliate დისკლოჟერი"
+      },
+      "common": {
+        "notFoundTitle": "სტატია ვერ მოიძებნა",
+        "notFoundText": "სცადე ბლოგის გვერდზე დაბრუნება.",
+        "helpfulToolsTitle": "სასარგებლო ხელსაწყოები ამ თემისთვის",
+        "helpfulToolsText": "ეს მარტივი პროდუქტის იდეებია, რომლებიც შეიძლება დაეხმაროს ამ სტატიის გარშემო არსებულ რუტინებს. გამოქვეყნებამდე ჩაანაცვლე placeholder ბმულები რეალური Amazon affiliate ბმულებით.",
+        "readArticle": "სტატიის კითხვა →",
+        "viewAmazon": "Amazon-ზე ნახვა",
+        "affiliatePlaceholder": "Affiliate placeholder ბმული. გამოქვეყნებამდე ჩაანაცვლე რეალური Amazon Associates URL-ით.",
+        "healthDisclaimerTitle": "ჯანმრთელობის დისკლეიმერი:",
+        "healthDisclaimerBody": "ეს ვებსაიტი მხოლოდ საგანმანათლებლო მიზნებისთვისაა და არაა სამედიცინო რჩევა. ჯანმრთელობასთან, დიეტასთან, ვარჯიშთან ან დანამატებთან დაკავშირებული გადაწყვეტილების მიღებამდე ყოველთვის მიმართე კვალიფიციურ პროფესიონალს.",
+        "aboutEyebrow": "ჩვენს შესახებ",
+        "aboutTitle": "მშვიდი სივრცე გონება-სხეულის ჩვევებისთვის.",
+        "aboutLead": "MindBody Roots იკვლევს, როგორ მოქმედებს ერთმანეთზე აზრები, რუტინები, გარემო და ფიზიკური კეთილდღეობა.",
+        "aboutBody1": "მისია მარტივია: ჯანმრთელობისა და აზროვნების იდეები იყოს უფრო გასაგები და პრაქტიკაში უფრო მარტივი. საიტი ფოკუსირდება პრაქტიკულ განათლებაზე, მიწიერ მოტივაციაზე და პატარა, გამეორებად ჩვევებზე.",
+        "aboutBody2": "ეს არ ცვლის პროფესიონალურ სამედიცინო დახმარებას. ეს არის დასაწყისი დაფიქრების, სწავლისა და ისეთი რუტინების შექმნისთვის, რომლებიც შენს ცხოვრებას უჭერს მხარს.",
+        "blogEyebrow": "ბლოგი",
+        "blogTitle": "ჯანმრთელობისა და გონების სტატიები.",
+        "blogLead": "მოკლე, პრაქტიკული ტექსტები აზროვნებაზე, რუტინებზე, ფიზიკურ კეთილდღეობასა და ყოველდღიური ქცევის უკან არსებულ ფარულ ნიმუშებზე.",
+        "quotesEyebrow": "მოტივაცია",
+        "quotesTitle": "ციტატები გონებისა და სხეულისთვის.",
+        "quotesLead": "გამოიყენე ისინი როგორც პატარა შეხსენებები. რეალური პროგრესი მაინც მოდის განმეორებული მოქმედებიდან, დასვენებიდან და გულწრფელი თვითშეგნებიდან.",
+        "quotesTip": "რჩევა: აირჩიე ერთი ციტატა კვირისთვის და დააკავშირე ერთ ხილულ ჩვევასთან, მაგალითად დილის გასეირნებასთან, წყლის ბოთლთან, დღიურთან ან უფრო ადრე დაძინებასთან.",
+        "recommendationsEyebrow": "Amazon რეკომენდაციები",
+        "recommendationsTitle": "ხელსაწყოები ჯანმრთელი რუტინისთვის.",
+        "recommendationsLead": "პროდუქტის იდეები დღიურისთვის, სწავლებისთვის, მოძრაობისთვის, აღდგენისთვის და ყოველდღიური თანმიმდევრულობისთვის.",
+        "affiliateDisclosureLabel": "Affiliate დისკლოჟერი:",
+        "affiliateDisclosureTitle": "როგორ მუშაობს პროდუქტის ბმულები.",
+        "affiliateDisclosureBody": "როგორც Amazon Associate, ამ საიტს შეიძლება ჰქონდეს შემოსავალი კვალიფიციური შესყიდვებიდან. ეს არ ცვლის ფასს, რომელსაც იხდი. მიმდინარე ბმულები placeholder-ებია და გამოქვეყნებამდე უნდა შეიცვალოს რეალური affiliate URL-ებით.",
+        "affiliateDisclosureStrong": "Amazon Associate-ის სახით, მე ვიღებ საკომისიოს შესაბამისი შესყიდვებიდან.",
+        "affiliateDisclosureExtra1": "შესაბამისად, საიტზე არსებული ზოგიერთი ბმული affiliate ბმულია. თუ დააჭერ ბმულს და შეიძენ პროდუქტს, საიტს შეიძლება მცირე საკომისიო დაერიცხოს. ეს არ ცვლის იმ ფასს, რასაც გადაიხდი.",
+        "affiliateDisclosureExtra2": "რეკომენდაციები უნდა ეფუძნებოდეს სტატიის თემას, სარგებლიანობას და ჯანმრთელ რუტინებთან შესაბამისობას. გამოქვეყნებამდე ჩაანაცვლე placeholder Amazon ბმულები რეალური Amazon Associates URL-ებით.",
+        "disclaimerEyebrow": "დისკლეიმერი",
+        "disclaimerTitle": "საგანმანათლებლო კონტენტი, არა სამედიცინო რჩევა.",
+        "disclaimerBody": "MindBody Roots-ზე არსებული ინფორმაცია განკუთვნილია მხოლოდ ზოგადი განათლებისა და მოტივაციისთვის. ეს არ არის სამედიცინო რჩევა, დიაგნოზი, მკურნალობა ან კვალიფიციური პროფესიონალის რეკომენდაციის შემცვლელი.",
+        "disclaimerItems": [
+          "ვარჯიშის, დიეტის, ძილის, დანამატების ან მკურნალობის რეჟიმის შეცვლამდე ყოველთვის მიმართე ექიმს ან კვალიფიციურ პროფესიონალს.",
+          "არ უგულებელყო პროფესიონალური სამედიცინო რჩევა მხოლოდ იმიტომ, რომ ის ამ საიტზე წაიკითხე.",
+          "ამ საიტზე არსებული არცერთი სტატია ან რეკომენდაცია არ არის განკუთვნილი დაავადების დიაგნოსტიკისთვის, მკურნალობისთვის, განკურნებისთვის ან პრევენციისთვის.",
+          "შენ თავად ხარ პასუხისმგებელი საკუთარ გადაწყვეტილებებზე და ყურადღებით უნდა გაითვალისწინო შენი ჯანმრთელობის მდგომარეობა."
+        ],
+        "articleToolsTitle": "სასარგებლო ხელსაწყოები ამ თემისთვის",
+        "articleToolsText": "ეს არის მარტივი პროდუქტის იდეები, რომლებიც შესაძლოა დაეხმაროს ამ სტატიის გარშემო არსებულ რუტინებს. გამოქვეყნებამდე ჩაანაცვლე placeholder ბმულები რეალური Amazon affiliate ბმულებით."
+      }
+    }
+  },
+  "posts": [
+    {
+      "slug": "what-is-the-unconscious-mind",
+      "title": {
+        "en": "What Is the Unconscious Mind?",
+        "ka": "რა არის არაცნობიერი გონება?"
+      },
+      "category": {
+        "en": "Mind & Motivation",
+        "ka": "გონება და მოტივაცია"
+      },
+      "date": "May 19, 2026",
+      "readingTime": {
+        "en": "5 min read",
+        "ka": "კითხვის დრო: 5 წთ"
+      },
+      "excerpt": {
+        "en": "A simple explanation of the unconscious mind and how hidden patterns can shape everyday habits, emotions, and choices.",
+        "ka": "არაცნობიერი გონების მარტივი ახსნა და ის, თუ როგორ შეუძლია ფარულ ნიმუშებს ყოველდღიური ჩვევების, ემოციებისა და არჩევანის ფორმირება."
+      },
+      "productTitles": {
+        "en": [
+          "Book on the Unconscious Mind",
+          "Guided Habit Journal"
+        ],
+        "ka": [
+          "წიგნი არაცნობიერ გონებაზე",
+          "მართული ჩვევების დღიური"
+        ]
+      },
+      "sections": [
+        {
+          "heading": {
+            "en": "The quiet layer beneath awareness",
+            "ka": "შეგნების ქვეშ არსებული მშვიდი ფენა"
+          },
+          "body": {
+            "en": "The unconscious mind is the part of mental life that operates outside direct awareness. It includes learned associations, emotional patterns, memories, instincts, and automatic responses. You may not notice it directly, but it can influence what feels comfortable, threatening, attractive, or difficult.",
+            "ka": "არაცნობიერი გონება არის ფსიქიკური ცხოვრების ის ნაწილი, რომელიც პირდაპირი შეგნების გარეშე მუშაობს. იგი მოიცავს ნასწავლ ასოციაციებს, ემოციურ ნიმუშებს, მოგონებებს, ინსტინქტებსა და ავტომატურ პასუხებს. შეიძლება პირდაპირ ვერ შეამჩნიო, მაგრამ ის გავლენას ახდენს იმაზე, რაც კომფორტულად, საფრთხედ, მიმზიდველად ან რთულად გვეჩვენება."
+          }
+        },
+        {
+          "heading": {
+            "en": "Why it matters for health",
+            "ka": "რატომ არის ეს მნიშვნელოვანი ჯანმრთელობისთვის"
+          },
+          "body": {
+            "en": "Many health choices are not made through logic alone. Stress eating, avoiding exercise, procrastinating sleep, or repeating old routines can be connected to automatic patterns. Understanding those patterns helps you create an environment where healthier choices become easier.",
+            "ka": "ჯანმრთელობასთან დაკავშირებული ბევრი არჩევანი მხოლოდ ლოგიკით არ კეთდება. სტრესული ჭამა, ვარჯიშის არიდება, ძილის გადადება ან ძველი რუტინების გამეორება ხშირად ავტომატურ ნიმუშებთან არის დაკავშირებული. ამ ნიმუშების გაგება გეხმარება ისეთი გარემოს შექმნაში, სადაც ჯანსაღი არჩევანი უფრო მარტივდება."
+          }
+        },
+        {
+          "heading": {
+            "en": "How to work with it",
+            "ka": "როგორ ვიმუშაოთ მასთან"
+          },
+          "body": {
+            "en": "Start by observing repeated behaviors without judging yourself. Journaling, mindful breathing, therapy, and consistent routines can help bring hidden patterns into awareness. The goal is not to control every thought, but to become more conscious of what drives your choices.",
+            "ka": "დაიწყე განმეორებადი ქცევების დაკვირვებით ისე, რომ საკუთარი თავი არ განსაჯო. დღიურის წერა, გააზრებული სუნთქვა, თერაპია და სტაბილური რუტინები დაგეხმარება ფარული ნიმუშების შეგნებაში შემოტანაში. მიზანი არაა ყველა აზრის კონტროლი, არამედ იმის უკეთ გაცნობიერება, თუ რა მართავს შენს არჩევანს."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "how-your-mind-influences-physical-health",
+      "title": {
+        "en": "How Your Mind Influences Your Physical Health",
+        "ka": "როგორ მოქმედებს გონება ფიზიკურ ჯანმრთელობაზე"
+      },
+      "category": {
+        "en": "Mind-Body Connection",
+        "ka": "გონება-სხეულის კავშირი"
+      },
+      "date": "May 19, 2026",
+      "readingTime": {
+        "en": "4 min read",
+        "ka": "კითხვის დრო: 4 წთ"
+      },
+      "excerpt": {
+        "en": "Your thoughts do not magically control your body, but mindset, stress, and habits can strongly shape physical wellbeing over time.",
+        "ka": "შენი ფიქრები ჯადოსნურად არ აკონტროლებს სხეულს, მაგრამ აზროვნება, სტრესი და ჩვევები დროთა განმავლობაში ძლიერ გავლენას ახდენს ფიზიკურ კეთილდღეობაზე."
+      },
+      "productTitles": {
+        "en": [
+          "Comfort Sleep Mask",
+          "Guided Habit Journal"
+        ],
+        "ka": [
+          "კომფორტული საძილე ნიღაბი",
+          "მართული ჩვევების დღიური"
+        ]
+      },
+      "sections": [
+        {
+          "heading": {
+            "en": "Mind and body are connected",
+            "ka": "გონება და სხეული ერთმანეთთან დაკავშირებულია"
+          },
+          "body": {
+            "en": "Your mental state can affect your breathing, posture, appetite, sleep quality, energy, and motivation. This does not mean positive thinking cures illness. It means your daily mental patterns can support or weaken the routines that protect your health.",
+            "ka": "შენს მენტალურ მდგომარეობას შეუძლია გავლენა მოახდინოს სუნთქვაზე, სხეულის პოზაზე, მადასა და ძილის ხარისხზე, ენერგიასა და მოტივაციაზე. ეს არ ნიშნავს, რომ პოზიტიური აზროვნება კურნავს დაავადებას. ეს ნიშნავს, რომ ყოველდღიური მენტალური ნიმუშები ან აძლიერებს, ან ასუსტებს იმ რუტინებს, რომლებიც ჯანმრთელობას გიცავს."
+          }
+        },
+        {
+          "heading": {
+            "en": "Stress changes behavior",
+            "ka": "სტრესი ქცევას ცვლის"
+          },
+          "body": {
+            "en": "When stress is high, people often sleep less, move less, eat differently, and become more reactive. Reducing stress through simple practices can create more space for better decisions.",
+            "ka": "როდესაც სტრესი მაღალია, ადამიანები ხშირად ნაკლებად სძინავთ, ნაკლებად მოძრაობენ, სხვანაირად ჭამენ და უფრო რეაქტიულები ხდებიან. მარტივი პრაქტიკებით სტრესის შემცირება უკეთესი გადაწყვეტილებებისთვის მეტ სივრცეს ქმნის."
+          }
+        },
+        {
+          "heading": {
+            "en": "Build supportive cues",
+            "ka": "შექმენი დამხმარე მინიშნებები"
+          },
+          "body": {
+            "en": "A calmer environment, regular sleep schedule, visible workout gear, and short planning rituals can all help your mind and body cooperate. Small cues repeated daily often matter more than one burst of motivation.",
+            "ka": "მშვიდი გარემო, რეგულარული ძილის გრაფიკი, თვალსაჩინო სავარჯიშო ნივთები და მოკლე დაგეგმვის რიტუალები შეიძლება დაეხმაროს გონებასა და სხეულს თანამშრომლობაში. ყოველდღიურად გამეორებული პატარა მინიშნებები ხშირად უფრო მნიშვნელოვანია, ვიდრე მოტივაციის ერთი დიდი ტალღა."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "small-daily-habits-stronger-body",
+      "title": {
+        "en": "Small Daily Habits That Build a Stronger Body",
+        "ka": "პატარა ყოველდღიური ჩვევები, რომლებიც ძლიერ სხეულს ქმნის"
+      },
+      "category": {
+        "en": "Physical Health",
+        "ka": "ფიზიკური ჯანმრთელობა"
+      },
+      "date": "May 19, 2026",
+      "readingTime": {
+        "en": "4 min read",
+        "ka": "კითხვის დრო: 4 წთ"
+      },
+      "excerpt": {
+        "en": "A stronger body usually comes from repeatable basics: movement, recovery, hydration, food quality, and consistency.",
+        "ka": "ძლიერი სხეული ჩვეულებრივ მარტივი და გამეორებადი საფუძვლებიდან მოდის: მოძრაობა, აღდგენა, ჰიდრატაცია, საკვების ხარისხი და თანმიმდევრულობა."
+      },
+      "productTitles": {
+        "en": [
+          "Resistance Bands Set",
+          "Reusable Water Bottle"
+        ],
+        "ka": [
+          "რეზისტანს-ბენდების ნაკრები",
+          "გამოსაყენებელი წყლის ბოთლი"
+        ]
+      },
+      "sections": [
+        {
+          "heading": {
+            "en": "Start smaller than your ego wants",
+            "ka": "დაიწყე იმაზე პატარა ნაბიჯით, ვიდრე ეგო გთხოვს"
+          },
+          "body": {
+            "en": "The best routine is one you can repeat. Five minutes of movement today is more useful than a perfect plan you avoid. Small wins teach your nervous system that action is safe and possible.",
+            "ka": "საუკეთესო რუტინა ისაა, რომლის გამეორებაც შეგიძლია. დღეს 5 წუთიანი მოძრაობა უფრო სასარგებლოა, ვიდრე იდეალური გეგმა, რომელსაც გაურბიხარ. პატარა გამარჯვებები ნერვულ სისტემას ასწავლის, რომ მოქმედება უსაფრთხო და შესაძლებელია."
+          }
+        },
+        {
+          "heading": {
+            "en": "Use simple anchors",
+            "ka": "გამოიყენე მარტივი საყრდენები"
+          },
+          "body": {
+            "en": "Attach new habits to existing routines. Stretch after brushing your teeth. Drink water after waking. Walk after lunch. Anchors reduce the amount of motivation required.",
+            "ka": "ახალი ჩვევები მიაბი უკვე არსებულ რუტინებს. კბილების გახეხვის შემდეგ გაჭიმე სხეული. გაღვიძების შემდეგ დალიე წყალი. სადილის შემდეგ გაისეირნე. ასეთი საყრდენები ამცირებს საჭირო მოტივაციის რაოდენობას."
+          }
+        },
+        {
+          "heading": {
+            "en": "Respect recovery",
+            "ka": "პატივისცემა გამოუცხადე აღდგენას"
+          },
+          "body": {
+            "en": "Strength grows when effort and recovery work together. Sleep, rest days, and calm evenings are not laziness; they are part of the system that makes progress sustainable.",
+            "ka": "ძალა მაშინ იზრდება, როცა ძალისხმევა და აღდგენა ერთად მუშაობს. ძილი, დასვენების დღეები და მშვიდი საღამოები სიზარმაცე არაა — ეს არის სისტემის ნაწილი, რომელიც პროგრესს მდგრადს ხდის."
+          }
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "title": {
+        "en": "Guided Habit Journal",
+        "ka": "მართული ჩვევების დღიური"
+      },
+      "category": {
+        "en": "Habits",
+        "ka": "ჩვევები"
+      },
+      "description": {
+        "en": "A simple journal can help you notice patterns, track routines, and stay honest with your daily choices.",
+        "ka": "მარტივი დღიური დაგეხმარება ნიმუშების შემჩნევაში, რუტინების თვალყურის დევნებაში და ყოველდღიურ არჩევანთან გულწრფელად დამოკიდებაში."
+      },
+      "url": "https://www.amazon.com/s?k=habit+journal"
+    },
+    {
+      "title": {
+        "en": "Book on the Unconscious Mind",
+        "ka": "წიგნი არაცნობიერ გონებაზე"
+      },
+      "category": {
+        "en": "Mind",
+        "ka": "გონება"
+      },
+      "description": {
+        "en": "A beginner-friendly psychology book can make the hidden parts of behavior easier to understand.",
+        "ka": "დამწყებთათვის შესაფერისი ფსიქოლოგიის წიგნი ქცევის ფარული მხარეების გაგებას ამარტივებს."
+      },
+      "url": "https://www.amazon.com/s?k=unconscious+mind+book"
+    },
+    {
+      "title": {
+        "en": "Resistance Bands Set",
+        "ka": "რეზისტანს-ბენდების ნაკრები"
+      },
+      "category": {
+        "en": "Movement",
+        "ka": "მოძრაობა"
+      },
+      "description": {
+        "en": "Lightweight resistance bands are useful for simple strength routines at home or while traveling.",
+        "ka": "მსუბუქი რეზისტანს-ბენდები სასარგებლოა მარტივი ძალოვანი ვარჯიშებისთვის სახლში ან მოგზაურობისას."
+      },
+      "url": "https://www.amazon.com/s?k=resistance+bands"
+    },
+    {
+      "title": {
+        "en": "Comfort Sleep Mask",
+        "ka": "კომფორტული საძილე ნიღაბი"
+      },
+      "category": {
+        "en": "Recovery",
+        "ka": "აღდგენა"
+      },
+      "description": {
+        "en": "Better sleep habits often start with reducing light, noise, and friction around your nighttime routine.",
+        "ka": "უკეთესი ძილის ჩვევები ხშირად იწყება სინათლის, ხმაურისა და დაბრკოლებების შემცირებით საღამოს რუტინაში."
+      },
+      "url": "https://www.amazon.com/s?k=sleep+mask"
+    },
+    {
+      "title": {
+        "en": "Reusable Water Bottle",
+        "ka": "გამოსაყენებელი წყლის ბოთლი"
+      },
+      "category": {
+        "en": "Daily Health",
+        "ka": "ყოველდღიური ჯანმრთელობა"
+      },
+      "description": {
+        "en": "A visible water bottle can be a small environmental cue that supports hydration throughout the day.",
+        "ka": "თვალსაჩინო წყლის ბოთლი შეიძლება იყოს პატარა გარემოს მინიშნება, რომელიც დღის განმავლობაში ჰიდრატაციას უწყობს ხელს."
+      },
+      "url": "https://www.amazon.com/s?k=reusable+water+bottle"
+    }
+  ],
+  "quotes": [
+    {
+      "text": {
+        "en": "Your body hears everything your mind says.",
+        "ka": "შენი სხეული ისმენს ყველაფერს, რასაც გონება ამბობს."
+      }
+    },
+    {
+      "text": {
+        "en": "Small habits create strong bodies.",
+        "ka": "პატარა ჩვევები ქმნის ძლიერ სხეულს."
+      }
+    },
+    {
+      "text": {
+        "en": "Discipline is self-respect in action.",
+        "ka": "დისციპლინა არის თვითპატივისცემა მოქმედებაში."
+      }
+    },
+    {
+      "text": {
+        "en": "Health begins with the choices you repeat.",
+        "ka": "ჯანმრთელობა იწყება იმ არჩევანით, რომელსაც იმეორებ."
+      }
+    },
+    {
+      "text": {
+        "en": "A calm mind makes healthier decisions easier.",
+        "ka": "მშვიდი გონება ჯანსაღ გადაწყვეტილებებს ამარტივებს."
+      }
+    },
+    {
+      "text": {
+        "en": "Progress is built quietly, one honest routine at a time.",
+        "ka": "პროგრესი ჩუმად შენდება, ერთ გულწრფელ რუტინაზე ერთდროულად."
+      }
+    }
+  ]
+}
